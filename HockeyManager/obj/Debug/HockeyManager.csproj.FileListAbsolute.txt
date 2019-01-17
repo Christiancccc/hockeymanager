@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\PirateAPpp 17-1-2019\HockeyManager\bin\Debug\HockeyManager.exe.config
+C:\Users\Christian\source\repos\PirateAPpp 17-1-2019\HockeyManager\bin\Debug\HockeyManager.exe
+C:\Users\Christian\source\repos\PirateAPpp 17-1-2019\HockeyManager\bin\Debug\HockeyManager.pdb
+C:\Users\Christian\source\repos\PirateAPpp 17-1-2019\HockeyManager\obj\Debug\HockeyManager.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\PirateAPpp 17-1-2019\HockeyManager\obj\Debug\HockeyManager.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\PirateAPpp 17-1-2019\HockeyManager\obj\Debug\HockeyManager.exe
+C:\Users\Christian\source\repos\PirateAPpp 17-1-2019\HockeyManager\obj\Debug\HockeyManager.pdb
