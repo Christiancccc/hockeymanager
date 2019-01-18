@@ -38,6 +38,9 @@ namespace HockeyManager
                         Console.WriteLine(
                         statistiekBerekenaar.DefineerHandVerdeling(competitie.Teams[0]));
                         break;
+                    case "Show positie":
+                        Console.WriteLine(statistiekBerekenaar.DefineerPositieVerdeling(competitie.Teams[0]));
+                        break;
                     default:
                         Console.WriteLine("I dont recognize that command");
                         break;
